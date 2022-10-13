@@ -2,7 +2,9 @@
 This notebook is for forecasting with Facebook Prophet. We are trying to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 
 ---
+## Technologies
 
+We will analyze the time series data with the [Facebook Prophet Library](https://facebook.github.io/prophet/).
 
 ## Installation Guide
 We will run this notebook in
